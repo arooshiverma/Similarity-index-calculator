@@ -1,0 +1,22 @@
+Hello my name is Arooshi Verma. 
+I am a 4th year dual degree student at IIT Bhubaneswar. 
+This is sample data for a plagiarism detector. 
+I have been working on emotion detection of poem audios. 
+The dataset has been created in Hindi language. 
+Forensic Science, also known as Forensics, is the application of science to law. 
+It uses highly developed technology to uncover scientific evidence in a variety of fields. 
+Modern forensic science has a broad range of applications. 
+It is used in civil cases such as forgeries, fraud or negligence.
+The most common use of forensic science is to investigate criminal cases involving a victim, such as assault, robbery, kidnapping , rape, or murder.
+Forensic science is also used in monitoring the compliance of various countries with such international agreements as the Nuclear Non-Proliferation.
+The presence of animals is essential because it maintains the balance in the ecosystem. 
+In today world, some animals also serve as companions and help reduce our stress, anxiety, depression, and loneliness. 
+Every organism has a unique place in the food chain, and each contributes to maintaining the existence of life on this planet. 
+The man had learned early that with their more complex and advanced mind, they are superior to any other animal on the Earth.
+Most of us have sisters in our family. 
+Some of us have an elder sister, and some of us have a younger. 
+Maybe your sister is not the funniest, the greatest, or not the perfect, but she is the one whom you can blindly trust.
+She is the one who can easily make you laugh. 
+She is the one who can effortlessly make me feel great. 
+She is always there for me, suggesting and supporting me. 
+She is one of the best advisors I have got in my life.
