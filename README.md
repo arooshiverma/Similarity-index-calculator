@@ -1,4 +1,4 @@
-# Similarity-index-calculator
+# Document Similarity index calculator
 Checks similarity index between 2 documents for the purpose of plagiarism detection. Algorithm based on graph theory.\
 The two input documents are named : doc1.txt and doc2.txt\
 ![Algorithm](https://github.com/arooshiverma/Similarity-index-calculator/blob/main/imgs/img1.JPG?raw=true)
